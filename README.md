@@ -5,7 +5,7 @@ A repository's README file functions as a public-facing landing page for your so
 Please include a few sentences that describe the intended use of your software, what research question(s) motivated its development, and how the project fits into the broader context of CosmicAI.
 
 ## Compilation/Installation Instructions
-Please include a set of instructions for compiling/installing your software.  If relevant, please specify the target operating system and compiler, along with any implicit dependencies (cmake, CUDA, PyTorch, etc.). We strongly recommend including a Dockerfile as a way of promoting flexible deployment. If your project is wrapped in Python, we also recommend including an option for downloading pre-compiled binaries.
+Please include a set of instructions for compiling/installing your software.  If relevant, please specify the target operating system and compiler, along with any implicit dependencies (cmake, CUDA, PyTorch, etc.). We strongly recommend including a Dockerfile as a way of promoting flexible deployment. If your project is wrapped in Python, we additionally recommend including an option for downloading pre-compiled binaries.
 
 ## Citation Instructions
 Please include a set of instructions for how users should cite your project. If you prefer users to cite the software itself, we have included a CITATION.cff file (citation file format) with a template schema. If you prefer users to cite a publication/white paper, please provide a URL and/or relevant publication details.
