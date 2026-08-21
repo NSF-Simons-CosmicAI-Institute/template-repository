@@ -13,6 +13,9 @@ Please include a set of instructions for how users should cite your project. If 
 ## License
 Please include an open-source license file as part of your repository. GitHub provides an easy way of selecting among license templates popular in the open-source software community, simply navigate to Add File -> Create New File -> Choose a license template. A list/description of GitHub's built-in license templates can be found [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository). Note that we have included the standard MIT license file in this template repository, but the choice ultimately falls to the repository owner/software developer. Repositories owned by the CosmicAI organization default to the standard MIT license.
 
+## Miscellaneous
+As a way of amplifying the visibility of CosmicAI software, we ask that you populate GitHub's Description, Website, and Topic fields with details relevant to your project. You can access these fields by clicking on the gear icon in your repository's 'About' section, located on the right-hand sidebar.
+
 ## Acknowledgement
 This work was supported by the National Science Foundation under Cooperative Agreement 2421782 and the Simons Foundation grant MPS-AI-00010515 awarded to the NSF-Simons AI Institute for Cosmic Origins — CosmicAI, https://www.cosmicai.org/
 
